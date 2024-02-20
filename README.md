@@ -13,3 +13,8 @@ Taking advantage of the characteristic of particulate matter flowing in through 
 ""Jul"" :  I tried to make this model following the rules of competition of AIFactory('https://aifactory.space/task/2317/overview')</br>
 ""Aug"" : The competition is over, and I changed the problem and made new models.</br>
 ""Sep"" : Need to improve and evaluate it in many ways.
+
+---
+
+I changed the topic to 'predicting_pm10', and finished this project.
+Later i upload my notebook for predicting_pm10.
